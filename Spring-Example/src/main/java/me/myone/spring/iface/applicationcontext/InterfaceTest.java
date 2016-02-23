@@ -1,4 +1,4 @@
-package me.myone.spring.iface.ApplicationContext;
+package me.myone.spring.iface.applicationcontext;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanNameAware;

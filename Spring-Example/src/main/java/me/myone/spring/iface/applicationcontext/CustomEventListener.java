@@ -1,4 +1,4 @@
-package me.myone.spring.iface.ApplicationContext;
+package me.myone.spring.iface.applicationcontext;
 
 import org.springframework.context.ApplicationEvent;
 import org.springframework.context.ApplicationListener;
